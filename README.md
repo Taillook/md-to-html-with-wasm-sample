@@ -1,4 +1,4 @@
 ## What
 sample of markdown to html with wasm.
 
-/wwwから`npm start`で試せます。
+/sampleから`npm install; npm start`で試せます。
